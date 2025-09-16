@@ -22,12 +22,12 @@
 </head>
 <body>
   <h1>Privacy Policy</h1>
-  <p><strong>Effective Date:</strong> [Insert Date]</p>
-  <p><strong>Developer:</strong> [Your Name or Company Name]</p>
-  <p><strong>Contact Email:</strong> [Your Email]</p>
+  <p><strong>Effective Date:</strong>16TH SEP 2025</p>
+  <p><strong>Developer:</strong> Free Status Saver</p>
+  <p><strong>Contact Email:</strong> Winwise4@gmail.com</p>
 
   <h2>1. Introduction</h2>
-  <p>This Privacy Policy explains how the Status Saver app ("App") handles your data. This App is provided free of charge and is intended to help users save and manage status updates (photos/videos) from supported social media platforms, such as WhatsApp.</p>
+  <p>This Privacy Policy explains how the Status Saver app ("App") handles your data. This App is provided free of charge and is intended to help users save and manage status updates (photos/videos) from supported social media platforms</p>
 
   <h2>2. Information We Collect</h2>
   <p>We do <strong>not collect</strong> any personally identifiable information (PII) from users of this App.</p>
@@ -61,7 +61,7 @@
 
   <h2>9. Contact Us</h2>
   <p>If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at:</p>
-  <p>Email: <a href="mailto:[Your Email]">[Your Email]</a></p>
+  <p>Email: <a href="mailto:winwise4@gmail.com">winwise4@gmail.com</a></p>
 
   <hr>
   <p><em>This Privacy Policy page was generated for the Status Saver App and is intended to comply with Google Play Store requirements.</em></p>
